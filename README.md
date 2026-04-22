@@ -32,8 +32,8 @@
 
 <hr/>
 
-- 👋 Hi, I'm @siyul-jh — React / TypeScript 기반 프론트엔드 개발자입니다
-- 👀 I'm interested in **Frontend Architecture**, **UI/UX**, **Data Visualization**, **Developer Tooling**
-- 🌱 I'm currently learning **React Compiler**, **Next.js App Router**, **AI-integrated interfaces**
-- 💞️ I'm looking to collaborate on interesting frontend projects
+- 👋 약 6년차 프론트엔드 개발자 — React / React Native / TypeScript / GraphQL 기반으로 웹과 앱을 모두 개발합니다. FSD(Feature-Sliced Design) 구조를 중심으로 확장 가능한 아키텍처를 설계하며, 에이전시에서 의료기기·교육·HR 등 다양한 도메인을 거쳐 실행력을 쌓았습니다.
+- 👀 **관심 분야**: React Native 네이티브 연동(Android Native Module / Kotlin), 프론트엔드 아키텍처(FSD · RBAC · 상태 관리 최적화), AI 개발 도구 & 에이전트 아키텍처, 개발자 경험(DX) 개선
+- 🌱 **현재 학습 중**: Android Kotlin Native Module(Presentation API), TanStack Start, AI 에이전트 설계 패턴(Generator-Evaluator · 컨텍스트 최적화), 로컬 LLM 연동(LM Studio)
+- 💞️ 흥미로운 프론트엔드 프로젝트라면 언제든 협업을 환영합니다
 - 📫 How to reach me ...
