@@ -36,4 +36,4 @@
 - 👀 **관심 분야**: React Native 네이티브 연동(Android Native Module / Kotlin), 프론트엔드 아키텍처(FSD · RBAC · 상태 관리 최적화), AI 개발 도구 & 에이전트 아키텍처, 개발자 경험(DX) 개선
 - 🌱 **현재 학습 중**: Android Kotlin Native Module(Presentation API), TanStack Start, AI 에이전트 설계 패턴(Generator-Evaluator · 컨텍스트 최적화), 로컬 LLM 연동(LM Studio)
 - 💞️ 흥미로운 프론트엔드 프로젝트라면 언제든 협업을 환영합니다
-- 📫 How to reach me ...
+- 📫 gihum@naver.com
